@@ -9,6 +9,10 @@
 This library enables the automatic resizing of the height and width of both same and cross domain iFrames to fit their contained content. It provides a range of features to address the most common issues with using iFrames, these include:
 
 - TEST
+- 1
+- 2
+- 3
+- 4
 - Height and width resizing of the iFrame to content size.
 - Works with multiple and nested iFrames.
 - Domain authentication for cross domain iFrames.
